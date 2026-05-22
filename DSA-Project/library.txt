@@ -1,0 +1,61 @@
+# Library Management System - Database File
+101|The Great Gatsby|F. Scott Fitzgerald|Classic|14|56.0|14
+102|1984|George Orwell|Classic|22|97.0|22
+103|Brave New World|Aldous Huxley|Classic|9|38.0|9
+104|The Catcher in the Rye|J.D. Salinger|Classic|11|42.0|11
+105|Don Quixote|Miguel de Cervantes|Classic|6|25.0|6
+106|Crime and Punishment|Fyodor Dostoevsky|Classic|17|78.0|17
+107|Moby Dick|Herman Melville|Classic|5|18.0|5
+108|War and Peace|Leo Tolstoy|Classic|8|37.0|8
+109|The Odyssey|Homer|Classic|12|55.0|12
+110|Anna Karenina|Leo Tolstoy|Classic|10|46.0|10
+111|To Kill a Mockingbird|Harper Lee|Drama|19|88.0|19
+112|Of Mice and Men|John Steinbeck|Drama|13|58.0|13
+113|The Grapes of Wrath|John Steinbeck|Drama|7|30.0|7
+114|A Farewell to Arms|Ernest Hemingway|Drama|10|44.0|10
+115|The Old Man and the Sea|Ernest Hemingway|Drama|16|73.0|16
+116|Les Miserables|Victor Hugo|Drama|14|65.0|14
+117|The Kite Runner|Khaled Hosseini|Drama|24|113.0|24
+118|A Thousand Splendid Suns|Khaled Hosseini|Drama|22|100.0|21
+119|The Hound of the Baskervilles|Arthur Conan Doyle|Mystery|18|82.0|18
+120|Murder on the Orient Express|Agatha Christie|Mystery|20|94.0|20
+121|And Then There Were None|Agatha Christie|Mystery|23|108.0|23
+122|The Girl with the Dragon Tattoo|Stieg Larsson|Mystery|15|67.0|15
+123|Gone Girl|Gillian Flynn|Mystery|17|74.0|17
+124|The Da Vinci Code|Dan Brown|Mystery|26|117.0|26
+125|Big Little Lies|Liane Moriarty|Mystery|12|55.0|12
+126|In the Woods|Tana French|Mystery|9|39.0|9
+127|Harry Potter and the Sorcerers Stone|J.K. Rowling|Fantasy|35|168.0|35
+128|The Hobbit|J.R.R. Tolkien|Fantasy|30|142.0|30
+129|The Lord of the Rings|J.R.R. Tolkien|Fantasy|28|133.0|28
+130|A Game of Thrones|George R.R. Martin|Fantasy|25|117.0|25
+131|The Name of the Wind|Patrick Rothfuss|Fantasy|18|85.0|18
+132|American Gods|Neil Gaiman|Fantasy|14|63.0|14
+133|The Lies of Locke Lamora|Scott Lynch|Fantasy|10|46.0|10
+134|Mistborn The Final Empire|Brandon Sanderson|Fantasy|16|75.0|16
+135|Pride and Prejudice|Jane Austen|Romance|22|104.0|22
+136|Sense and Sensibility|Jane Austen|Romance|14|65.0|14
+137|Jane Eyre|Charlotte Bronte|Romance|17|79.0|17
+138|Wuthering Heights|Emily Bronte|Romance|13|57.0|13
+139|Outlander|Diana Gabaldon|Romance|11|50.0|11
+140|Me Before You|Jojo Moyes|Romance|19|89.0|19
+141|Treasure Island|Robert Louis Stevenson|Adventure|12|54.0|12
+142|The Alchemist|Paulo Coelho|Adventure|20|93.0|20
+143|Life of Pi|Yann Martel|Adventure|18|84.0|18
+144|Into the Wild|Jon Krakauer|Adventure|15|67.0|15
+145|The Call of the Wild|Jack London|Adventure|8|36.0|8
+146|Around the World in 80 Days|Jules Verne|Adventure|10|45.0|10
+147|Gone with the Wind|Margaret Mitchell|Historical|16|74.0|16
+148|All the Light We Cannot See|Anthony Doerr|Historical|21|99.0|21
+149|The Book Thief|Markus Zusak|Historical|24|113.0|24
+150|Wolf Hall|Hilary Mantel|Historical|10|45.0|10
+151|The Pillars of the Earth|Ken Follett|Historical|13|59.0|13
+152|Schindlers Ark|Thomas Keneally|Historical|9|40.0|9
+153|The Nightingale|Kristin Hannah|Historical|22|104.0|22
+154|The Hitchhikers Guide to the Galaxy|Douglas Adams|Comedy|25|116.0|25
+155|Good Omens|Terry Pratchett|Comedy|22|93.0|20
+156|Catch-22|Joseph Heller|Comedy|14|62.0|14
+157|Three Men in a Boat|Jerome K. Jerome|Comedy|8|36.0|8
+158|Bridget Joness Diary|Helen Fielding|Comedy|12|54.0|12
+159|A Man Called Ove|Fredrik Backman|Comedy|18|84.0|18
+160|The Rosie Project|Graeme Simsion|Comedy|11|50.0|11
